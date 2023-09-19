@@ -1,5 +1,10 @@
+# Jekyll
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+vendo
+
+# Temporary and backup files
+*~
+.DS_Store

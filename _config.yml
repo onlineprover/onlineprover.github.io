@@ -19,18 +19,38 @@
 # in the templates via {{ site.myvariable }}.
 
 title: OnlineProver
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Modern Approach to Teaching Classes at the University Level in Theoretical Computer Science
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+author:
+  bio: >-
+    A Modern Approach to Teaching Classes at the University Level in Theoretical Computer Science
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/onlineprover/"
+  
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

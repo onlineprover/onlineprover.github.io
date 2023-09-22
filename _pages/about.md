@@ -5,6 +5,10 @@ permalink: /about/
 author_profile: true
 ---
 
+The **Modern Approaches and Tools for Teaching Classes at the University Level in Theoretical Computer Science Courses of Logic, Types, and Semantics** initiative no: FBR-PDI-025 is funded by Iceland, Liechtenstein and Norway through the EEA Grants and Norway Grants.
+
+## Abstract
+
 Formal methods have the potential to highly improve the quality of developed software, especially where programming errors can lead to costly faults. Promising examples exist that have formally shown the correctness of software for aviation control systems. However, formal methods are not widely used in industry. The main reason for this is that it is not taught to students prior to entering university. Students possess little to no prior knowledge or experience to relate to when presented with formal logic, types, semantics, or proof theory. However, computer science students are exposed to several courses on programming, so teaching logic and formal methods from a programmer's perspective is a useful way of aligning the course with their existing knowledge and skills, which can help them better understand and appreciate the value of these methods, ultimately leading to improved software quality and fewer costly faults.
 
 Tools such as advanced text editors, interpreters, and similar programming language technologies are helpful aids when learning a new programming language. They persistently provide precise feedback to the programmer and thus remove some of the complexity of programming. Similarly, students can benefit from using such tools when learning proof theory in logic and semantics. The goal of this project will be to develop software (teaching tools), through which students can study the fundamental principles of reasoning by manipulating proofs as programs.

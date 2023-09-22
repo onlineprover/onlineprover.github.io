@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Home page
+title: OnlineProver
 description: >- # this means to ignore newlines until "baseurl:"
   Modern Approaches and Tools for Teaching Classes at the University Level in Theoretical Computer Science Courses of Logic, Types, and Semantics
 baseurl: "" # the subpath of your site, e.g. /blog

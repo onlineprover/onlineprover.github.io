@@ -1,0 +1,15 @@
+main:
+  - title: "Meetings"
+    url: /_pages/meetings/
+  - title: "Publicity"
+    url: /_pages/publicity/
+  - title: "Results"
+    url: /_pages/results/
+  - title: "Teaching"
+    url: /_pages/teaching/
+  - title: "Our team"
+    url: /_pages/team/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /_pages/contact/

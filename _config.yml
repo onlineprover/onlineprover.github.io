@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+
 author:
   bio: >-
     A Modern Approach to Teaching Classes at the University Level in Theoretical Computer Science
@@ -40,17 +41,27 @@ defaults:
       layout: single
       author_profile: true
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+
+
+include:
+  - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

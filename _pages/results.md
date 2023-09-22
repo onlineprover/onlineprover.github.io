@@ -1,7 +1,0 @@
----
-title: Results
-permalink: /results/
----
-
-
-

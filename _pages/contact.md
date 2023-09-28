@@ -46,7 +46,7 @@ permalink: /contact/
     Norway
     <br>
     <br>
-    <img src="/_pages/images/uio-english-logo-example.jpg" width="300"/>
+    <img src="/_pages/images/uio-logo-no.jpg" width="350"/>
     </p>
 </body>
 

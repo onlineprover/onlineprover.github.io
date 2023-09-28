@@ -66,6 +66,9 @@ defaults:
       author_profile: true
 
 
+analytics:
+  provider: "custom"
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:

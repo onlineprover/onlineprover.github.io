@@ -41,6 +41,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/onlineprover/"
+
+
 footer:
   links:
     - label: "EEA and Norway Grants"
@@ -78,11 +80,20 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
+  - jekyll-polyglot
 
 
 include:
   - _pages
 
+# Polyglot settings
+languages: ["en", "sk"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "/_pages/images", "css", "public"]
+parallel_localization: true
+
+sass:
+  sourcemap: never
 
 # Exclude from processing.
 # The following items will not be processed, by default.

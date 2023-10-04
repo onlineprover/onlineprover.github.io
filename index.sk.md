@@ -1,5 +1,5 @@
 ---
-title: Modern Approach to Teaching Classes at the University Level in Theoretical Computer Science
+title: Moderný prístup k výučbe vysokoškolských predmetov zameraných na teoretickú informatiku.
 layout: single
 author_profile: true
 lang: sk
@@ -10,11 +10,10 @@ permalink: /
 # use the home layout to add posts to main page
 -->
 
-sk
 
-Within this initiative, supported by Iceland, Liechtenstein, and Norway through the [EEA Grants and Norwegian Grants](https://www.eeagrants.sk/en/), the [Technical University of Košice](https://tuke.sk/) (TUKE) Slovakia, and the [University of Oslo](https://www.uio.no/english/) (UiO) Norway, are collaborating to enhance and innovate the teaching of courses focused on theoretical computer science, using modern approaches and tools.
+V tejto iniciatíve podporenej Islandom, Lichtenštajnskom a Nórskom prostredníctvom [grantov EHP a Nórskych grantov](https://www.eeagrants.sk/en/) prebieha spolupráca medzi [Technickou Univerzitou v Košiciach (TUKE)](https://tuke.sk/) a [Univerzitou v Osle (UiO)](https://www.uio.no/english/). Cieľom iniciatívy je inovácia výučby predmetov zameraných na teoretickú informatiku, využitím moderných edukačných prístupov a nástrojov. 
 
-One of the main goals is the planned development of an interactive teaching tool through which users can study the fundamental principles of deduction and manipulation with proofs as programs. During in-person and regular online meetings, members of the research team will share their long-term experience in teaching courses related to logic, type theory, and semantics of programming languages.
+Hlavným cieľom je plánovaný vývoj interaktívneho výučbového nástroja, prostredníctvom ktorého môžu používatelia študovať základné princípy dedukcie a manipulácie s dôkazmi ako programami. V rámci osobných stretnutí na pôdach oboch zúčastnených univerzít, ako aj počas pravidelných online konferencií sa členovia riešiteľského kolektívu podelia o svoje dlhoročné skúsenosti s výučbou predmetov zameraných na logiku, teóriu typov a sémantiku programovacích jazykov. 
 
-Among the other objectives of the initiative are cooperation in the development of new teaching materials for both parties, research in the field of proof assistants' development, with a focus on precise visualization of the proof process emulation and its use in teaching, as well as the possibilities of gamification of the teaching process. The results obtained from the initiative will be implemented in the teaching process, and innovative research findings will be presented at international scientific conferences. 
+Medzi ďalšie ciele iniciatívy patrí spolupráca pri vývoji nových učebných materiálov pre obe strany, výskum v oblasti vývoja interaktívnych dokazovacích systémov, s dôrazom na exaktnú vizualizáciu emulácie procesu dokazovania a ich využitia pri výučbe, ako aj možností gamifikácie procesu výučby. Nadobudnuté výsledky iniciatívy budú implementované do výučbového procesu a inovatívne výsledky výskumu budú prezentované na medzinárodných vedeckých konferenciách.
 

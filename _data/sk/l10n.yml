@@ -3,3 +3,13 @@ title: "OnlineProver"
 pagetitle: "OnlineProver"
 
 lang_name: Slovenský
+
+author:
+  bio: >-
+    slovensky opis autor
+  links:
+    - label: "linky atd"
+      url: "https://www.eeagrants.sk/en/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/onlineprover/"

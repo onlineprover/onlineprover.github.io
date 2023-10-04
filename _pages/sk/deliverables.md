@@ -1,5 +1,5 @@
 ---
-title: Deliverables
+title: Výstupy
 permalink: /deliverables/
 lang: sk
 ---

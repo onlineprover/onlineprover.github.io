@@ -20,3 +20,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/onlineprover/"
+
+footer:
+  links:
+    - label: "EEA and Norway Grants"
+      url: "https://www.eeagrants.sk/en/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/onlineprover/"

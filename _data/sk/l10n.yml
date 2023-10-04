@@ -13,3 +13,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/onlineprover/"
+
+
+footer:
+  links:
+    - label: "SK links "
+      url: "https://www.eeagrants.sk/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/onlineprover/"

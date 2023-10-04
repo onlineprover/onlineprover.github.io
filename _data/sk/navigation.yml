@@ -1,0 +1,15 @@
+main:
+  - title: "Stretnutia"
+    url: /meetings/
+  - title: "Publicita"
+    url: /publicity/
+  - title: "Výstupy"
+    url: /deliverables/
+  - title: "Výučba"
+    url: /teaching/
+  - title: "Členovia tímu"
+    url: /team/
+  - title: "O projekte"
+    url: /about/
+  - title: "Kontakt"
+    url: /contact/

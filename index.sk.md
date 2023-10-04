@@ -10,7 +10,6 @@ permalink: /
 # use the home layout to add posts to main page
 -->
 
-
 V tejto iniciatíve podporenej Islandom, Lichtenštajnskom a Nórskom prostredníctvom [grantov EHP a Nórskych grantov](https://www.eeagrants.sk/en/) prebieha spolupráca medzi [Technickou Univerzitou v Košiciach (TUKE)](https://tuke.sk/) a [Univerzitou v Osle (UiO)](https://www.uio.no/english/). Cieľom iniciatívy je inovácia výučby predmetov zameraných na teoretickú informatiku, využitím moderných edukačných prístupov a nástrojov. 
 
 Hlavným cieľom je plánovaný vývoj interaktívneho výučbového nástroja, prostredníctvom ktorého môžu používatelia študovať základné princípy dedukcie a manipulácie s dôkazmi ako programami. V rámci osobných stretnutí na pôdach oboch zúčastnených univerzít, ako aj počas pravidelných online konferencií sa členovia riešiteľského kolektívu podelia o svoje dlhoročné skúsenosti s výučbou predmetov zameraných na logiku, teóriu typov a sémantiku programovacích jazykov. 

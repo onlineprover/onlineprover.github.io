@@ -2,7 +2,7 @@
 title: Modern Approach to Teaching Classes at the University Level in Theoretical Computer Science
 layout: single
 author_profile: true
-lang: en
+lang: sk
 permalink: /
 ---
 <!--
@@ -10,6 +10,7 @@ permalink: /
 # use the home layout to add posts to main page
 -->
 
+sk
 
 Within this initiative, supported by Iceland, Liechtenstein, and Norway through the [EEA Grants and Norwegian Grants](https://www.eeagrants.sk/en/), the [Technical University of Košice](https://tuke.sk/) (TUKE) Slovakia, and the [University of Oslo](https://www.uio.no/english/) (UiO) Norway, are collaborating to enhance and innovate the teaching of courses focused on theoretical computer science, using modern approaches and tools.
 

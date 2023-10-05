@@ -24,3 +24,8 @@ See also [the official GitHub Pages documentation](https://docs.github.com/en/pa
 ## Customization
 
 The site uses [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/). The customization is covered in the [documentation of the theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+
+## Multilingual Support
+
+The site uses [Polyglot](https://github.com/untra/polyglot). Polyglot is an open-source internationalization plugin for Jekyll.
+

@@ -5,7 +5,7 @@ permalink: /about/
 
 The **Modern Approaches and Tools for Teaching Classes at the University Level in Theoretical Computer Science Courses of Logic, Types, and Semantics** initiative no: **FBR-PDI-025** is funded by Iceland, Liechtenstein and Norway through the EEA Grants and Norway Grants.
 
-<img src="/_pages/images/EEA-and-Norway_grants.png"/>
+<img src="/images/EEA-and-Norway_grants.png"/>
     <br>
 
 Working together for a green, competitive and inclusive Europe

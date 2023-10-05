@@ -21,7 +21,7 @@ lang: sk
     Slovenská republika
     <br>
     <br>
-    <img src="/_pages/images/tuke_logo.png" width="300"/>
+    <img src="/images/tuke_logo.png" width="300"/>
     </p>
 </body>
 
@@ -47,7 +47,7 @@ lang: sk
     Nórsko
     <br>
     <br>
-    <img src="/_pages/images/uio-logo-no.jpg" width="350"/>
+    <img src="/images/uio-logo-no.jpg" width="350"/>
     </p>
 </body>
 

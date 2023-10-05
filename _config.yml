@@ -89,7 +89,7 @@ include:
 # Polyglot settings
 languages: ["en", "sk"]
 default_lang: "en"
-exclude_from_localization: ["javascript", "css", "public"]
+exclude_from_localization: ["javascript", "css", "public",  "images"]
 parallel_localization: false
 
 sass:

@@ -7,7 +7,7 @@ lang: sk
 
 **Moderné prístupy a nástroje pre výučbu predmetov na univerzitnej úrovni v oblasti teoretickej informatiky, logiky, teórie typov a sémantiky**, iniciatíva číslo: **FBR-PDI-025** je podporená Islandom, Lichtenštajnskom a Nórskom prostredníctvom grantov EHP a Nórskych grantov. <br>
     <br>    
-    <img src="/_pages/images/EEA-and-Norway_grants.png"/>
+    <img src="/images/EEA-and-Norway_grants.png"/>
     <br>
     <br>
     Spoločným úsilím k zelenej, konkurencieschopnej a inkluzívnej Európe

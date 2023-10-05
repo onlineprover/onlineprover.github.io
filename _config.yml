@@ -90,7 +90,7 @@ include:
 languages: ["en", "sk"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "/_pages/images", "css", "public"]
-parallel_localization: true
+parallel_localization: false
 
 sass:
   sourcemap: never

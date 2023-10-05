@@ -30,4 +30,3 @@ The site uses [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mista
 
 The site uses [Polyglot](https://github.com/untra/polyglot). Polyglot is an open-source internationalization plugin for Jekyll.
 
-

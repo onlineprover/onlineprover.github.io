@@ -1,5 +1,5 @@
 ---
-title: Moderný prístup k výučbe vysokoškolských predmetov zameraných na teoretickú informatiku.
+title: Moderný prístup k výučbe predmetov na univerzitnej úrovni v oblasti teoretickej informatiky.
 layout: single
 author_profile: true
 lang: sk

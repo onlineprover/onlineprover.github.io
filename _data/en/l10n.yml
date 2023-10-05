@@ -20,6 +20,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/onlineprover/"
+    - label: "TUKE"
+      url: "https://www.tuke.sk/"
+    - label: "UiO"
+      url: "https://www.uio.no/english/index.html"
+
 
 footer:
   links:
@@ -28,3 +33,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/onlineprover/"
+    - label: "TUKE"
+      url: "https://www.tuke.sk/"
+    - label: "UiO"
+      url: "https://www.uio.no/english/index.html"

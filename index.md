@@ -10,7 +10,6 @@ permalink: /
 # use the home layout to add posts to main page
 -->
 
-
 Within this initiative, supported by Iceland, Liechtenstein, and Norway through the [EEA Grants and Norwegian Grants](https://www.eeagrants.sk/en/), the [Technical University of Košice](https://tuke.sk/) (TUKE) Slovakia, and the [University of Oslo](https://www.uio.no/english/) (UiO) Norway, are collaborating to enhance and innovate the teaching of courses focused on theoretical computer science, using modern approaches and tools.
 
 One of the main goals is the planned development of an interactive teaching tool through which users can study the fundamental principles of deduction and manipulation with proofs as programs. During in-person and regular online meetings, members of the research team will share their long-term experience in teaching courses related to logic, type theory, and semantics of programming languages.

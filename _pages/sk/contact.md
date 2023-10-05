@@ -4,21 +4,21 @@ permalink: /contact/
 lang: sk
 ---
 
-**Contact person responsible for the initiative (TUKE):**
-- [Ján Perháč](https://kpi.fei.tuke.sk/en/person/jan-perhac) <jan.perhac@tuke.sk>
+**Zodpovedný riešiteľ a kontaktná osoba (TUKE):**
+- [Ján Perháč](https://kpi.fei.tuke.sk/sk/person/jan-perhac) <jan.perhac@tuke.sk>
 <body>
     <p style="line-height: 1;">
-    Department of Computers and Informatics
+    Katedra počítačov a informatiky
     <br>
-    Faculty of Electrical Engineering and Informatics
+    Fakulta elektrotechniky a informatiky
     <br>
-    Technical University of Košice
+    Technická univerzita v Košiciach
     <br>   
     Letná 9
     <br>    
     042 00 Košice
     <br>    
-    Slovak Republic
+    Slovenská republika
     <br>
     <br>
     <img src="/_pages/images/tuke_logo.png" width="300"/>
@@ -27,16 +27,16 @@ lang: sk
 
 
 
-**Contact persons (UiO)**
+**Kontaktné osoby (UiO)**
 - [Joachim Tilsted Kristensen](https://www.mn.uio.no/ifi/english/people/aca/joachkr/) <joachkr@ifi.uio.no>
 - [Michael Kirkedal Thomsen](https://www.mn.uio.no/ifi/english/people/aca/michakt/index.html) <m.kirkedal@di.ku.dk>
 <body>
     <p style="line-height: 1;">
-    Department of Informatics
+    Katedra informatiky
     <br>
-    Faculty of Mathematics and Natural Sciences
+    Fakulta matematiky a prírodných vied
     <br>
-    The University of Oslo
+    Univerzita v Osle
     <br>   
     Ole-Johan Dahls Building
     <br>        
@@ -44,11 +44,10 @@ lang: sk
     <br>    
     0373 Oslo
     <br>    
-    Norway
+    Nórsko
     <br>
     <br>
     <img src="/_pages/images/uio-logo-no.jpg" width="350"/>
     </p>
 </body>
-
 

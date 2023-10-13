@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Modern Approaches and Tools for Teaching Classes at the University Level in Theoretical Computer Science Courses of Logic, Types, and Semantics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: onlineprover/onlineprover.github.io
 
 
 author:

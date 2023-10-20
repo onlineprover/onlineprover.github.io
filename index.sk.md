@@ -20,3 +20,9 @@ Hlavným cieľom je plánovaný vývoj interaktívneho výučbového nástroja, 
 
 Medzi ďalšie ciele iniciatívy patrí spolupráca pri vývoji nových učebných materiálov pre obe strany, výskum v oblasti vývoja interaktívnych dokazovacích systémov, s dôrazom na exaktnú vizualizáciu emulácie procesu dokazovania a ich využitia pri výučbe, ako aj možností gamifikácie procesu výučby. Nadobudnuté výsledky iniciatívy budú implementované do výučbového procesu a inovatívne výsledky výskumu budú prezentované na medzinárodných vedeckých konferenciách.
 
+
+## Udalosti
+
+### Prvé stretnutie - 14.10.2023 - 20.10.2023 
+
+Členovia riešiteľského kolektívu Technickej Univerzity v Košiciach v zložení Perháč, Steingartner, Chodarev, Novotný navštívili Univerzitu v Osle. 

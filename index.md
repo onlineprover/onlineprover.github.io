@@ -19,3 +19,9 @@ One of the main goals is the planned development of an interactive teaching tool
 
 Among the other objectives of the initiative are cooperation in the development of new teaching materials for both parties, research in the field of proof assistants' development, with a focus on precise visualization of the proof process emulation and its use in teaching, as well as the possibilities of gamification of the teaching process. The results obtained from the initiative will be implemented in the teaching process, and innovative research findings will be presented at international scientific conferences. 
 
+## Events
+
+### 1st meeting - 14.10.2023 - 20.10.2023 
+Team members from the Technical University of Košice visited the University of Oslo. 
+
+

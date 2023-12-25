@@ -35,7 +35,7 @@ Additionally, the team members from UiO have given three guest lectures in maste
 - Joachim Tilsted Kristensen: **Proofs as programs** (Type theory).
 
 ### Photos
-{% include image-gallery.html folder="/images/2nd_meeting/" %}
+{% include image-gallery.html folder="https://onlineprover.github.io/images/2nd_meeting/" %}
 
 
 

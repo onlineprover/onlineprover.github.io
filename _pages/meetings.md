@@ -37,7 +37,6 @@ Additionally, the team members from UiO have given three guest lectures in maste
 ### Photos
 {% include image-gallery.html folder="/images/2nd_meeting/" %}
 
-<img src="//wsrv.nl/?url=https://onlineprover.github.io/images/website_photo.jpg&w=300&h=300" alt="{{ filename }}" />
 
 
 ## 1st meeting - 14.10.2023 - 20.10.2023 

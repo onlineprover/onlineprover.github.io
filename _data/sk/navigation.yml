@@ -1,8 +1,6 @@
 main:
   - title: "Stretnutia"
     url: /meetings/
-  - title: "Publicita"
-    url: /publicity/
   - title: "Výstupy"
     url: /deliverables/
   - title: "Výučba"

@@ -21,12 +21,9 @@ Among the other objectives of the initiative are cooperation in the development 
 
 ## Events
 ### 2nd meeting - 13.11.2023 - 17.11.2023 
-Team members from the University of Oslo (Eric Bartley Jul, Joachim Tilsted Kristensen, Lars Vadgaard, Michael Kirkedal Thomsen) visited the Technical University of Košice.
+Team members from the University of Oslo (Eric Bartley Jul, Joachim Tilsted Kristensen, Lars Vadgaard, Michael Kirkedal Thomsen) [visited the Technical University of Košice](/meetings/#2st-meeting---13112023---17102023).
 
-[More information](/meetings/#2st-meeting---13112023---17102023)
 
 ### 1st meeting - 14.10.2023 - 20.10.2023 
-Team members from the Technical University of Košice (Ján Perháč, William Steingartner, Sergej Chodarev, Samuel Novotný) visited the University of Oslo. 
-
-[More information](/meetings/#1st-meeting---14102023---20102023)
+Team members from the Technical University of Košice (Ján Perháč, William Steingartner, Sergej Chodarev, Samuel Novotný) [visited the University of Oslo](/meetings/#1st-meeting---14102023---20102023). 
 

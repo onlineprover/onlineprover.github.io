@@ -59,4 +59,7 @@ Achievements:
 -   Technologies.
 -   Initial prototype.
 
+### Photos
+{% include image-gallery.html folder="/images/1st_meeting/" %}
+
 

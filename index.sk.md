@@ -27,6 +27,10 @@ Medzi ďalšie ciele iniciatívy patrí spolupráca pri vývoji nových učebný
 
 Členovia riešiteľského kolektívu Univerzity v Osle v zložení Eric Bartley Jul, Joachim Tilsted Kristensen, Lars Vadgaard, Michael Kirkedal Thomsen navštívili Technickú Univerzitu v Košiciach. 
 
+[Viac informácií v sekcii *stretnutia*](/sk/meetings/#druh%C3%A9-stretnutie---13112023---17102023).
+
 ### Prvé stretnutie - 14.10.2023 - 20.10.2023 
 
 Členovia riešiteľského kolektívu Technickej Univerzity v Košiciach v zložení Ján Perháč, William Steingartner, Sergej Chodarev, Samuel Novotný navštívili Univerzitu v Osle. 
+
+[Viac informácií v sekcii *stretnutia*](/sk/meetings/#prv%C3%A9-stretnutie---14102023---20102023).

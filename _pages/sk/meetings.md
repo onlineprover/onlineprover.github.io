@@ -29,8 +29,11 @@ Okrem toho tím z UiO poskytol tri pozvane prednášky v predmetoch inžinierske
 - Joachim Tilsted Kristensen : **Continuation passing style** (Funkcionálne programovanie).
 - Joachim Tilsted Kristensen : **Proofs as programs** (Teória typov).
 
+### Galéria
+{% include image-gallery.html folder="/images/2nd_meeting/" %}
 
-## Prvé stretnutie - 14.10.2023 - 20.10.2023 
+
+## Prvé stretnutie - 14.10.2023 - 20.10.2023
 
 Členovia riešiteľského kolektívu Technickej Univerzity v Košiciach v zložení Perháč, Steingartner, Chodarev, Novotný navštívili Univerzitu v Osle. 
 
@@ -50,4 +53,6 @@ Dosiahnuté výsledky:
 - Technológie.
 - Prvý prototyp.
 
+### Galéria
 
+{% include image-gallery.html folder="/images/1st_meeting/" %}

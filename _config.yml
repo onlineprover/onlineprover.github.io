@@ -90,8 +90,10 @@ include:
 # Polyglot settings
 languages: ["en", "sk"]
 default_lang: "en"
-exclude_from_localization: ["javascript", "css", "public", "images"]
+exclude_from_localization: ["javascript", "css", "public"]
 parallel_localization: false
+#exclude_from_localization: ["javascript", "css", "public", "images"]
+
 
 sass:
   sourcemap: never

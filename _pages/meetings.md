@@ -34,6 +34,11 @@ Additionally, the team members from UiO have given three guest lectures in maste
 - Joachim Tilsted Kristensen: **Continuation passing style** (Functional programming).
 - Joachim Tilsted Kristensen: **Proofs as programs** (Type theory).
 
+### Photos
+{% include image-gallery.html folder="/images/2nd_meeting/" %}
+
+
+
 ## 1st meeting - 14.10.2023 - 20.10.2023 
 
 Team members from the Technical University of Košice (Perháč, Steingartner, Chodarev, Novotný) visited the University of Oslo.

@@ -14,7 +14,7 @@ permalink: /teaching/
 - **Instructor**: Sergej Chodarev
 - [Course Information Page](https://kurzy.kpi.fei.tuke.sk/fp/)
 
-### Logic for Computer Scientists
+### Logic for Informaticians
 - **Instructors**: Valérie Novitzká, Ján Perháč
 - [Course Information Page](https://kurzy.kpi.fei.tuke.sk/lpi/)
 

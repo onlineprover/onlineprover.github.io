@@ -1,4 +1,6 @@
 main:
+  - title: "Tool"
+    url: /tool/
   - title: "Meetings"
     url: /meetings/
   - title: "Deliverables"

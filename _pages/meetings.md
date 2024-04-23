@@ -3,6 +3,33 @@ title: Meetings
 permalink: /meetings/
 ---
 
+## 4th meeting - 22.04.2024 - 26.04.2024 
+Team members from the Technical University of Košice (Perháč, Steingartner, Chodarev, Novotný) visited the University of Oslo.
+
+
+## 3rd meeting - 26.02.2024 - 01.03.2024 
+
+Team members from the University of Oslo (Joachim Tilsted Kristensen, Lars Vadgaard, and Michael Kirkedal Thomsen) visited the Technical University of Košice.
+
+<!--
+<img src="/images/2ndmeetingcover.jpg"/>
+    <br>
+-->
+
+The team members met at the Technical University in Košice
+
+
+We have started to implement the teaching tool, that we call the OnlineProver. During the meeting, we have been implementing the two backend programming languages, for specifying a language and a set of exercises. We have also formulated example programs in both programming languages, and started to write a manual and a test suite for the project. Exercises can now be sent to the frontend, rendered, filled out, and sent back to the server. The final parts of the proof checking remain to be implemented. 
+Regarding the frontend: We have implemented the core functionality (a visual natural deduction tree editor) for the OnlineProver before the meeting.  We have designed the protocol between the frontend and backend and have the frontend respect that protocol and render the exercises received from the backend.
+
+**Regarding publicity:** 
+- We have continued to work on a survey paper on the use of theorem provers in teaching computer science students. We have finished the first selection stage by creating queries for the most popular STEM scientific databases: Web of Science, Scopus, ACM DL, and IEEE Xplore based on the PICOC keywords. 
+- We prepared the extended abstract for the TYPES'24 conference. 
+- We have started the paper at the ITP'24 conference. This led to discussions on the teaching approach and evaluation of the use of OnlineProver in teaching.
+- Additionally, the team members from UiO have given two guest lectures:
+    - Michael Kirkedal Thomsen: *Program Transformation, Partial Evaluation and the Futamura Projections* (Formal languages).
+    - Joachim Tilsted Kristensen: *Introduction to Logic Programming in Prolog* (Logic for informaticians).
+
 
 ## 2st meeting - 13.11.2023 - 17.10.2023 
 Team members from the University of Oslo (Eric Bartley Jul, Joachim Tilsted Kristensen, Lars Vadgaard, and Michael Kirkedal Thomsen) visited the Technical University of Košice.

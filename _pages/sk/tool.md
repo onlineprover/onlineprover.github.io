@@ -4,4 +4,4 @@ permalink: /tool/
 lang: sk
 ---
 
-aaa
+

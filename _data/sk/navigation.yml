@@ -1,6 +1,8 @@
 main:
-  - title: "Tool"
+  - title: "Nástroj"
     url: /tool/
+  - title: "Stretnutia"
+    url: /meetings/
   - title: "Výstupy"
     url: /deliverables/
   - title: "Výučba"

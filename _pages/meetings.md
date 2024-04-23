@@ -31,7 +31,7 @@ Regarding the frontend: We have implemented the core functionality (a visual nat
     - Joachim Tilsted Kristensen: *Introduction to Logic Programming in Prolog* (Logic for informaticians).
 
 
-## 2st meeting - 13.11.2023 - 17.10.2023 
+## 2nd meeting - 13.11.2023 - 17.10.2023 
 Team members from the University of Oslo (Eric Bartley Jul, Joachim Tilsted Kristensen, Lars Vadgaard, and Michael Kirkedal Thomsen) visited the Technical University of Košice.
 
 <img src="/images/2ndmeetingcover.jpg"/>

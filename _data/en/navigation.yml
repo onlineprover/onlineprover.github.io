@@ -3,10 +3,6 @@ main:
     url: /tool/
   - title: "Meetings"
     url: /meetings/
-  - title: "Deliverables"
-    url: /deliverables/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Our team"
     url: /team/
   - title: "About"

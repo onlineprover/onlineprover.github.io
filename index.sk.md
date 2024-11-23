@@ -23,65 +23,65 @@ Medzi ďalšie ciele iniciatívy patrí spolupráca pri vývoji nových učebný
 
 ## **Udalosti**
 
-## Október 2024 - UDIT 2024 - Akceptácia článku pre prezentáciu na konferencii
+### Október 2024 - UDIT 2024 - Akceptácia článku pre prezentáciu na konferencii
 
 Náš článok s názvom "OnlineProver: First Experience with Teaching Formal Proofs" bol akceptovaný na prezentáciu na medzinárodnej vedeckej konferencii [UDIT 2024 - The Norwegian Conference on Didactics in IT education v rámci konferencie NIKT 2024 - Norwegian ICT Conference for Research and Education](https://www.nikt2024.no/home).
 
 
-## Október 2024 - OnlineProver v médiach 
+### Október 2024 - OnlineProver v médiach 
 
 Nórsky časopis *Forskning*, ktorý publikuje články v oblasti vedy a techniky zverejnil článok, kde Joachim Tilsted Kristensen a Michael Kirkedal Thomsen opisujú OnlineProver a jeho využitie (v Nórskom jazyku): 
 [Det finst konsept som sjølv IT-studentar har måtta ty til penn og papir for å forstå](https://www.forskning.no/digital-teknologi-matematikk-partner/det-finst-konsept-som-sjolv-it-studentar-har-matta-ty-til-penn-og-papir-for-a-forsta/2412302)
 
 
-## September 2024 - OnlineProver v médiach 
+### September 2024 - OnlineProver v médiach 
 
 Časopis *TITAN* Univerzity v Osle publikoval článok, kde Joachim Tilsted Kristensen a Michael Kirkedal Thomsen opisujú nami vyvinutý softvér (v Nórskom jazyku): 
 [Programmet som hjelper studentane akkurat passe](https://www.titan.uio.no/andre-temaer/2024/programmet-som-hjelper-studentane-akkurat-passe.html)
 
-## August 2024 - Nasadenie nástroja OnlineProver na IT University of Copenhagen
+### August 2024 - Nasadenie nástroja OnlineProver na IT University of Copenhagen
 Nami vyvinutý nástroj bol nasadený vo výučbe na Dánskej univerzite *IT University of Copenhagen* v rámci bakalárskeho stupňa v predmete diskrétna matematika. 
 
 
-## August 2024 - Zverejnenie druhého prototypu výučbového nástroja OnlineProver
+### August 2024 - Zverejnenie druhého prototypu výučbového nástroja OnlineProver
 - Druhá verzia prototypu nástroja OnlineProver obsahuje sadu cvičení pre prirodzenú dedukciu vo výrokovej logike a predikátovej logike. 
 - Je dostupný na adrese: [onlineprover.com/](http://onlineprover.com/). 
 
 
 
-## Júl 2024 - Prezentácia výsledkov výskumu na konferencii
+### Júl 2024 - Prezentácia výsledkov výskumu na konferencii
 
 Členovia riešiteľského kolektívu Ján Perháč a Joachim Tilsted Kristensen sá zúčastnili prestížnej medzinárodnej vedeckej konferencie  [IJCAR 2024 International Joint Conference on Automated Reasoning](https://merz.gitlabpages.inria.fr/2024-ijcar/) vo Francúzskej Nancy, kde v rámci workshopu [13th International Workshop on Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu/ThEdu24)  predniesli príspevok "OnlineProver: First Experience with Teaching Formal Proofs". 
 
-## Jún 2024 - Prezentácia výsledkov výskumu na konferencii
+### Jún 2024 - Prezentácia výsledkov výskumu na konferencii
 
 Členovia riešiteľského kolektívu Ján Perháč a Joachim Tilsted Kristensen sá zúčastnili prestížnej medzinárodnej vedeckej konferencie [TYPES 2024: 30th International Conference on Types for Proofs and Programs](https://types2024.itu.dk/) v Dánskej Kodani, kde predniesli príspevok "OnlineProver: A proof assistant for online teaching of formal logic and semantics". 
 
-## Jún 2024 - COST STSM 
+### Jún 2024 - COST STSM 
 
 V dňoch 29.5.2024 - 9.10.2024 navštívil Ján Perháč Univerzitu v Osle. Členovia riešiteľského tímu pokračovali v práci na prototype výučbového nástroja a príprave prezentácií výsledkov na vedecké konferencie. 
 
 Pobyt bol podporený európskym projektom *European Research Network on Formal Proofs*
 COST action CA20111 v rámci grantov STSM (Short-Term Scientific Missions) s názvom "*Proof Theory for Programmers: Promoting Output of Theorem Provers to Formative Feedback for Computer Science Students*". 
 
-## Máj 2024 - IJCAR 2024 - Akceptácia rozšíreného abstraktu pre prezentáciu na konferencii
+### Máj 2024 - IJCAR 2024 - Akceptácia rozšíreného abstraktu pre prezentáciu na konferencii
 
 Náš rozšírený abstrakt s názvom "OnlineProver: First Experience with Teaching Formal Proofs" bol akceptovaný na prezentáciu na medzinárodnej vedeckej konferencii [IJCAR 2024 International Joint Conference on Automated Reasoning](https://merz.gitlabpages.inria.fr/2024-ijcar/) v rámci workshopu [13th International Workshop on Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu/ThEdu24).
 
-## Štvrté stretnutie - 22.04.2024 - 26.04.2024 
+### Štvrté stretnutie - 22.04.2024 - 26.04.2024 
 Členovia riešiteľského kolektívu Technickej Univerzity v Košiciach v zložení Ján Perháč, William Steingartner, Sergej Chodarev, Samuel Novotný navštívili Univerzitu v Osle.
 
-## Apríl 2024 - Zverejnenie prvého prototypu nášho výučbového nástroja [onlineprover.com/](http://onlineprover.com/)
+### Apríl 2024 - Zverejnenie prvého prototypu nášho výučbového nástroja [onlineprover.com/](http://onlineprover.com/)
 - Prvý prototyp nástroja OnlineProver obsahuje sadu cvičení pre prirodzenú dedukciu vo výrokovej logike. 
 - Je dostupný na adrese: [onlineprover.com/](http://onlineprover.com/). 
 - Nástroj bol otestovaný v rámci predmetu "[Logika pre informatikov](https://kurzy.kpi.fei.tuke.sk/lpi/)" na Technickej univerzite v Košiciach. 
 
-## Máj 2024 - Types 2024 - Akceptácia rozšíreného abstraktu pre prezentáciu na konferencii
+### Máj 2024 - Types 2024 - Akceptácia rozšíreného abstraktu pre prezentáciu na konferencii
 
 Náš rozšírený abstrakt s názvom "OnlineProver: A proof assistant for online teaching of formal logic and semantics" bol akceptovaný na prezentáciu na medzinárodnej vedeckej konferencii [30th International Conference on Types for Proofs and Programs](https://types2024.itu.dk/).
 
 
-## Tretie stretnutie - 26.02.2024 - 01.03.2024 
+### Tretie stretnutie - 26.02.2024 - 01.03.2024 
 
 Členovia riešiteľského kolektívu Univerzity v Osle v zložení Joachim Tilsted Kristensen, Lars Vadgaard, a Michael Kirkedal Thomsen navštívili Technickú Univerzitu v Košiciach.
 

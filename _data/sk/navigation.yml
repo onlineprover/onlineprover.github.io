@@ -3,10 +3,6 @@ main:
     url: /tool/
   - title: "Stretnutia"
     url: /meetings/
-  - title: "Výstupy"
-    url: /deliverables/
-  - title: "Výučba"
-    url: /teaching/
   - title: "Členovia tímu"
     url: /team/
   - title: "O projekte"
